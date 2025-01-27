@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning java fullstack 
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me -> folow the my github account
+- 📫 How to reach me -> follow the my github account
   
 
 <!---
