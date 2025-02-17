@@ -1,6 +1,6 @@
 
 ## Hi there! 👋
-I'm Lalit Bhagat, a Aspiring Java Developer and Tech Enthusiast who loves solving complex problems and sharing ideas with the developer community.
+I'm Lalit Bhagat, a Associate Software Engineer , Java Developer and Tech Enthusiast who loves solving complex problems and sharing ideas with the developer community.
 - 👀 I’m interested in web development 
 - 💞️ I’m looking to collaborate on project
 
@@ -8,8 +8,8 @@ I'm Lalit Bhagat, a Aspiring Java Developer and Tech Enthusiast who loves solvin
 - Programming Languages: Java, C, JavaScript, HTML, CSS
 - Databases:Oracle, MySQL
 - Frameworks: Spring Boot, React.js
-- Tools: Git, Maven, Gradle, JUnit, SLF4J, Mokito,
-- IDE: Eclipse,  VS Code
+- Tools: Git, Maven, Gradle, JUnit, SLF4J, Mokito, Docker
+- IDE: Eclipse,  IntelliJ and VS Code
 
   ### 🌱 Currently Learning
 - Advanced Java concepts
